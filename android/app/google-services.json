@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "409553687921",
+    "project_id": "charged-gravity-392618",
+    "storage_bucket": "charged-gravity-392618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409553687921:android:5fddced853b8da622412d0",
+        "android_client_info": {
+          "package_name": "com.example.fire2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409553687921-4fsli3e93j2vh4el8t38amint2md8p8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXo9APV6iHgDOu6QFMfnBuR9-YDQgd8No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409553687921-4fsli3e93j2vh4el8t38amint2md8p8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409553687921-7nd79edvcehqj3da0q2gs7m5jmhs38si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fire2023"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
